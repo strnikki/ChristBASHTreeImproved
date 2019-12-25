@@ -36,7 +36,7 @@ Git clone and execute:
 git clone https://github.com/strnikki/ChristBASHTreeImproved.git && cd ./ChristBASHTreeImproved && bash tree.sh
 ```
 
-You can also pass the following arguments to the script:
+You can also pass the following arguments when running script:
 
 ```
   -s|--size: height of the tree. Default: 10
