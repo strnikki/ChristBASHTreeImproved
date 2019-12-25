@@ -6,7 +6,7 @@ One major difference is that in this version the tree decorations are generated 
 
 As usual, this is a WIP and PRs are welcome :)
 
-![XmasTreeDemo](./tree_demo.gif)
+![XmasTree](./tree.gif)
 
 # Usage
 
@@ -46,6 +46,8 @@ You can also pass the following arguments when running script:
   -sp|--speed: the speed which the lights blink (a smaller number is faster). Default: 10
   -h|--help: shows this text
 ```
+
+![XmasTreeDemo](./tree_demo.gif)
 
 __Enjoy!__
 
