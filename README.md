@@ -1,6 +1,6 @@
 # ChristBASHTreeImproved
 
-A fork of https://github.com/sergiolepore/ChristBASHTree.git with a few tweaks, like the adding options for customizing the tree and lights.
+A fork of https://github.com/sergiolepore/ChristBASHTree with a few tweaks, like the adding options for customizing the tree and lights.
 
 One major difference is that in this version the tree decorations are generated a single time. 
 
