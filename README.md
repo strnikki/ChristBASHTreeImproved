@@ -36,6 +36,17 @@ Git clone and execute:
 git clone https://github.com/strnikki/ChristBASHTreeImproved.git && cd ./ChristBASHTreeImproved && bash tree.sh
 ```
 
+You can also pass the following arguments to the script:
+
+```
+  -s|--size: height of the tree. Default: 10
+  -tw|--trunk_width: width of the center of the trunk. Default: 1
+  -nl|--number_lights: number of lights generated in the tree. Default: size*2
+  -sy|--synchrony: synchrony of the lights in percentage. Default: 30
+  -sp|--speed: the speed which the lights blink (a smaller number is faster). Default: 10
+  -h|--help: shows this text
+```
+
 __Enjoy!__
 
 ## License
